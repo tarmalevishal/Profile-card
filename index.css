@@ -1,0 +1,16 @@
+section{
+    height: auto;
+    width: 100%;
+    background: black;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 20px;
+}
+div{
+    height: 300px;
+    width: 300px;
+    background: radial-gradient(red,yellow);
+    border: 1px blue;
+}
